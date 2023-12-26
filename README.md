@@ -1,0 +1,7 @@
+Mô tả: Ứng dụng Karaoke NICE được tạo ra dành cho nhân viên quán nhằm mục đích giúp quản lý công việc trong quán một cách dễ dàng, nhanh chóng, tiện lợi. Mỗi nhân sẽ có những quyền hạn khác nhau.
+
+Cách hoạt động hệ thống karaoke:
+Khi có khách hàng đến quán thì các nhân viên phục sẽ có nhiệm vụ là dùng hệ thống quản lý ghi nhận ghi nhận lại thông tin khách hàng - vd: họ tên, sđt, đặt phòng (VIP)  hay các tổ chức liên hoan, sinh nhật nhu cầu của khách hàng để được các nhân viên có thể đáp ứng được và gửi báo cáo về quản lý quán. Sau đó nhân viên ghi nhận dựa trên những thông tin mà hệ thống ghi nhận triển khai qua nhân viên phục vụ để hướng dẫn khách hàng đến phòng mà khách hàng đã đặt như từ đầu, những nhu cầu của khách hàng sẽ được nhân viên phục vụ một cách tận tình thông qua những gì mà nhân viên ghi nhận trên hệ thống. Các hoạt động của khách hàng sẽ được quản lý và các nhân viên chú ý đến nếu có những nhu cầu khác. Khi các quá trình giải trí của khách hàng kết thúc lúc này nhân viên sẽ đưa thông tin trên hệ thống và xuất hóa đơn cho khách hàng một cách nhanh gọn và hợp lý.
+
+Ưu đãi đối với khách hàng thân thiết:
+Nếu khách hàng chưa là khách hàng thân thiết thì mức giá của các hoạt động vẩn là giá bình thường (100.000vnđ đối với phòng bình thường, phòng VIP sẽ là 200.000vnđ). Khi trở thành khách hàng thân thiết (VIP) thì mức giá của giờ hát sẽ được giảm 10% so với mức giá của khách bình thường. Nếu các khách hàng đã đến nhiều lần mà chưa được coi là khách hàng thân thiết thì có thể đăng kí thông qua nhân viên ghi nhận trên hệ thống.
